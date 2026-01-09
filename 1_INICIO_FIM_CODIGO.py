@@ -9,11 +9,15 @@ print("\n\033[93m ### CODE START ### \033[0m\n")
 a=1
 b=2
 c= a + b
-
 print(c)
-d= c + 5
+d=100
 print(d)
-##teste
+while d > 5:
+    print(d)
+    d = d-1
+
+    
+
 
 
 # 👆👆👆 Coloque o seu código na linha acima desse comentário 👆👆👆
